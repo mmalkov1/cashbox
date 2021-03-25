@@ -27,7 +27,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nodemon": "^1.18.4",
-    "sequelize": "^4.41.1",
+    "sequelize": "^5.15.1",
     "mysql2": "^1.6.4",
     "bcrypt": "^3.0.2",
     "jwt-simple": "^0.5.5"
@@ -54,7 +54,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nodemon": "^1.18.4",
-    "sequelize": "^4.41.1",
+    "sequelize": "^5.15.1",
     "mysql2": "^1.6.4",
     "bcrypt": "^3.0.2",
     "jwt-simple": "^0.5.5"
